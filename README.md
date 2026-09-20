@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="MyLoveES — Code / Experiment / Play · Python, C++, R" />
+  <img src="./assets/header-solarized.svg" width="100%" alt="MyLoveES — Rick and Morty inspired illustration in Solarized Light colors" />
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
   <a href="https://github.com/MyLoveES?tab=repositories"><b>全部项目</b></a>
 </p>
 
-### 一些工具，一些实验，也有一些弹幕。
+### 舞！舞！舞！
 
-Hi，我是 **MyLoveES**。这里放着我的 AI 相册、东方弹幕游戏、Python 工具与学习记录。也在[博客](https://mylovees.github.io/)里，记录 AI 服务部署与编程实践。
+一些工具，一些实验，也有一些弹幕。
 
 ## 作品与实验
 
@@ -44,8 +44,6 @@ Hi，我是 **MyLoveES**。这里放着我的 AI 相册、东方弹幕游戏、P
     </td>
   </tr>
 </table>
-
-还有一份与弹幕编程有关的记录：[《龙神录》编程教程](https://github.com/MyLoveES/LongShen)。
 
 ## 写在博客里
 
