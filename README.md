@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-solarized.svg" width="100%" alt="MyLoveES — Rick and Morty inspired illustration in Solarized Light colors" />
+  <img src="./assets/header-solarized.svg?v=smile" width="100%" alt="MyLoveES — Smiling Rick and Morty illustration in Solarized Light colors" />
 </p>
 
 <p align="center">

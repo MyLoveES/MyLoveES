@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="banner-title banner-description">
   <title id="banner-title">MyLoveES — Code / Experiment / Play</title>
-  <desc id="banner-description">A light Solarized banner with hand-drawn Rick and Morty standing in front of a green swirling portal.</desc>
+  <desc id="banner-description">A light Solarized banner with smiling hand-drawn Rick and Morty standing in front of a green swirling portal.</desc>
   <defs>
     <clipPath id="canvas"><rect width="1200" height="400" rx="20"/></clipPath>
     <clipPath id="portrait-base"><path d="M706 20H1158V360Q934 405 706 360Z"/></clipPath>
@@ -82,9 +82,11 @@
       <circle cx="880" cy="150" r="3.6" fill="#42575e" stroke="none"/>
       <path d="M866 158c-1 10-8 18-4 23 4 4 13 3 18-1" fill="none"/>
       <path d="M837 176q8 5 16 1m25-1q10 5 17-1" fill="none" stroke-width="1.6"/>
-      <path d="M846 199q21-5 43-1" fill="none"/>
-      <path d="M863 198c1 7 6 5 5 12-1 5 6 8 7 2l1-9 5-2-2-4" fill="#abc886" stroke-width="1.7"/>
-      <path d="M843 202q-1 5 3 8m39-4-4 4m-28 6q7 4 13 3" fill="none" stroke-width="1.6"/>
+      <!-- Rick's broad grin, with a bright upper row of teeth. -->
+      <path d="M845 193q22 9 45-1-4 25-22 26-18-1-23-25Z" fill="#586e75" stroke-width="2.5"/>
+      <path d="M848 195q20 7 39-1l-3 9q-17 5-33 0Z" fill="#fffef6" stroke="none"/>
+      <path d="M879 209c2 2 5 1 5 5l-1 5c0 4 5 5 6 1l1-8-3-4" fill="#abc886" stroke-width="1.5"/>
+      <path d="M840 194q1-4 5-4m44-1q4 0 6 4m-38 29q11 3 18-1" fill="none" stroke-width="1.6"/>
 
       <!-- The portal device is held in Rick's left hand. -->
       <g transform="rotate(-14 802 301)">
@@ -114,8 +116,10 @@
       <circle cx="979" cy="228" r="3.8" fill="#42575e" stroke="none"/>
       <circle cx="1026" cy="228" r="3.8" fill="#42575e" stroke="none"/>
       <path d="M1008 232q7 4 4 10-2 4-8 3" fill="none" stroke-width="2.4"/>
-      <path d="M991 262q15-10 31-1" fill="none" stroke-width="2.6"/>
-      <path d="M996 269q8-3 15-1" fill="none" stroke-width="1.6"/>
+      <!-- Morty's open smile and lifted mouth corners. -->
+      <path d="M987 254q19 8 39-1-4 20-20 22-14-1-19-21Z" fill="#586e75" stroke-width="2.5"/>
+      <path d="M990 256q17 6 33-1l-3 7q-15 5-27 0Z" fill="#fffef6" stroke="none"/>
+      <path d="M983 254q1-4 5-4m38-1q4 0 6 4" fill="none" stroke-width="1.6"/>
     </g>
   </g>
 </svg>
